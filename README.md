@@ -19,8 +19,7 @@ Tsinghua University
 
 ## Todo List
 
-- [x] dataset link
-- [ ] model weights
+- [ ] Update code and project
 
 
 ## Setup
