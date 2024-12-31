@@ -19,7 +19,7 @@ Tsinghua University
 
 ## Todo List
 
-- [ ] Update code and project
+- [ ] Update the project and codebase after paper acceptance
 
 
 ## Setup
