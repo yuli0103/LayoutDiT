@@ -1,11 +1,11 @@
-<h1 align="center"> CGB-DM: Content and Graphic Balance Layout Generation with Transformer-based Diffusion Model</h1>
+<h1 align="center"> LayoutDiT: Exploring Content-Graphic Balance in Layout Generation with Diffusion Transformer</h1>
 
 <div align="center">
 
  <a href='https://arxiv.org/abs/2407.15233'><img src='https://img.shields.io/badge/arxive-paper-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href='https://yuli0103.github.io/CGB-DM.github.io/'><img src='https://img.shields.io/badge/project-page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href='https://yuli0103.github.io/LayoutDiT.github.io/'><img src='https://img.shields.io/badge/project-page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
-_**[Yu Li](https://github.com/yuli0103/), [Yifan Chen](https://github.com/YifanChen-thu), [Gongye Liu](https://github.com/GongyeLiu), [Jie Wu](https://openreview.net/profile?id=~Jie_Wu23), [Yujiu Yang*](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN&oi=ao)**_
+_**[Yu Li](https://github.com/yuli0103/), [Yifan Chen](https://github.com/YifanChen-thu), [Gongye Liu](https://github.com/GongyeLiu), [Fei Yin](https://scholar.google.com/citations?hl=zh-CN&user=dHpevJAAAAAJ&view_op=list_works), [Qingyan Bai](https://scholar.google.com/citations?hl=zh-CN&user=xUMjxi4AAAAJ), [Jie Wu](https://openreview.net/profile?id=~Jie_Wu23), [Hongfa Wang](https://scholar.google.com/citations?user=q9Fn50QAAAAJ&hl=zh-CN&oi=ao), [Ruihagn Chu*](https://scholar.google.com/citations?user=62zPPxkAAAAJ&hl=zh-CN&oi=ao), [Yujiu Yang*](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN&oi=ao)**_
 
 Tsinghua University
 <br>
@@ -112,3 +112,4 @@ In `image_path`, select the test image, and in `check_path`, select the model we
       url={https://arxiv.org/abs/2407.15233}, 
      }
 ```
+
